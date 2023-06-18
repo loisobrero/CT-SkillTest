@@ -12,9 +12,9 @@ A PSD to HTML conversion using GIMP to extract the images within the layers. The
 
 ## Usage
 
-![first ss](images\use1.png)
-![second ss](images\use2.png)
-![thirs ss](images\use3.png)
+![first ss](images/use1.png)
+![second ss](images/use2.png)
+![third ss](images/use3.png)
 
 ## Credits
 
